@@ -29,6 +29,7 @@ O **Gerador de Senhas** permite que o usuário crie senhas com diferentes combin
 > ![image](https://github.com/user-attachments/assets/c57829bc-c9d5-48f9-8fc8-15d3ef0260f1)
 
 🛠️ Tecnologias utilizadas
-Kotlin – Lógica do aplicativo
 
-XML (ConstraintLayout) – Interface do usuário
+- Kotlin – Lógica do aplicativo
+
+- XML (ConstraintLayout) – Interface do usuário
